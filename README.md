@@ -1,9 +1,8 @@
 # reporte-accidentes
+aqui dejo un link al reporte de seguimiento de accidentes en carreteras federales del sudoeste de brasil redactado para una empresa de logistica que busca una expansion
+de su area de trabajo a dicha zona mencionada al comienzo de esta aclaracion.
 
 https://lookerstudio.google.com/s/nxHchxmZal4
-
-aqui dejo un link al reporte de seguimiento de accidentes en carreteras federales del sudoeste de brasil redactado para una empresa de logistica que busca una expansion
-de su area de trabajo a dicha zona mencionada al comienzo de esta aclaracion
 
 
 aqui dejo el reporte escdrito que acompaña al dashboard realizado en looker studio
